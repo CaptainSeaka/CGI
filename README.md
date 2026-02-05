@@ -1,9 +1,27 @@
 # CGI
-<sup>The Computer Games Institute</sup>|<sub>The Study of Games for Gamers</sub>
+## The Computer Games Institute
+Yeah, I spend too much time on this. Just be happy.
 
-Finally, a place where awful administrators can't ruin the fun...
 
-We ensure **fun** is researched to a <sub>molecular</sub> level
+Located at <a href="https://bit.ly/cgi-v2">this link</a>, we dedicate time to research *fun* and magically generate ***links***
 
-theres too many... tell me either in issues or in-person if any links are blocked
+---
+The links we have are:
+```Javascript
+- Boredom (2 links)
+- DogeUb (2 links)
+- DuckMath (lone stander - 1 link)
+- Fern (lone stander)
+- Lunar (lone stander)
+- Nebulo (lone stander)
+- OverCloaked (3 links)
+- PeteZah (5 links)
+- Prism (lone stander)
+- Rammerhead (3 links)
+- Reds Exploit Corner (2 links)
+- Shadow (7 links)
+- Utopia (6 links)
+- Waves (3 links)
+```
+
 
