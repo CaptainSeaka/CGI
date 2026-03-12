@@ -5,22 +5,9 @@ You see, I thought I'd dumb it down for all the bums out there that don't know h
 
 anyway we got lots.
 
-```JavaScript
-DayDreamX
-DogeUb
-Fern
-Interstellar
-Lucide
-LuminalOS
-Lunar
-Overcloaked
-PeteZah
-Rammerhead
-Shadow
-Vapor
-Void Network
-```
 
-There ya go, yall welcome.
+uh huh.
 
-<sub>- mr. funny guy </sub>
+<sub>- mr. funny guy 
+
+<sub> & CaptainSeaka
